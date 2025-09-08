@@ -19,7 +19,7 @@ This project analyzes a controlled experiment run by a fast-food chain testing *
 - Recommendation: Roll out Promotion 2 chain-wide.
 
 ## Deliverables
-- 📓 [Analysis Notebook](notebook/analysis.ipynb)  
+- 📓 [Analysis Notebook](notebook/01_analysis.ipynb)  
 - 📑 [Executive Summary](reports/summary.pdf)
 
 ## Resume Bullet
